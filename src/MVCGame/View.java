@@ -15,7 +15,6 @@ public class View extends JFrame  implements Observer {
 	{
 		super("MVC simple Example");
 		this.model = model;
-		
 
 		Frame frame = new Frame();
 		Panel panel = new Panel();
